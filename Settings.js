@@ -79,7 +79,7 @@
         afkRankCheck: "ambassador",
         motdEnabled: true,
         motdInterval: 10,
-        motd: "Run Man Streaming Monday - Thursday @10pm EDT, see Montii or Erzbet for requests and/or details.",
+        motd: "~~~~~~Running Man Streaming Monday - Thursday @10pm EDT, see Montii or Erzbet for requests and/or details.",
         filterChat: true,
         etaRestriction: false,
         welcome: true,
@@ -91,7 +91,7 @@
         website: null,
         intervalMessages: [],
         messageInterval: 5,
-        songstats: true,
+        songstats: false,
         commandLiteral: "!",
         blacklists: {
             NSFW: "https://rawgit.com/" + fork + "/basicBot-customization/master/blacklists/NSFWlist.json",
